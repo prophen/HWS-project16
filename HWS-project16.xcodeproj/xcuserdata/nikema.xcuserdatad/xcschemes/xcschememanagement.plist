@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Extension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>HWS-project16.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +18,16 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>E60FC74D1D5BB114007AE0C3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E60FC7661D5BB9E8007AE0C3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E60FC77B1D5BC16E007AE0C3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
